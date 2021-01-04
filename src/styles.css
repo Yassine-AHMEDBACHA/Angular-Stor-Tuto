@@ -2,11 +2,9 @@
 
 * {
   font-family: "Roboto", Arial, sans-serif;
-  color: Orange;
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: rgb(32, 32, 32);
 }
 
 body {
